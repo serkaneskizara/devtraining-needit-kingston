@@ -13,6 +13,11 @@
         </element>
         <element attributes="edge_encryption_enabled=true" choice="3" default="hr1" label="What needed" mandatory="true" max_length="40" name="u_what_needed" type="string">
             <choice>
+                <element label="1/14/17" sequence="0" value="1/14/17"/>
+                <element label="11/11/16" sequence="0" value="11/11/16"/>
+                <element label="12/18/16" sequence="0" value="12/18/16"/>
+                <element label="2/4/17" sequence="0" value="2/4/17"/>
+                <element label="3/20/17" sequence="0" value="3/20/17"/>
                 <element label="Human Resources 1" sequence="0" value="hr1"/>
                 <element label="Human Resources 2" sequence="1" value="hr2"/>
                 <element label="Facilities 1" sequence="2" value="facilities1"/>
